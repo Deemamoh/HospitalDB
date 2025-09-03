@@ -1,1 +1,1 @@
-# HospitalDB
+This is a MySQL database project for hospital management. It includes tables for Patients, Doctors, Appointments, Medical History, Schedules, and Departments, demonstrating data management, relationships, and queries in a real-world hospital scenario
